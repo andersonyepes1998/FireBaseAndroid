@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162101464351",
+    "project_id": "paseo-viernes-64a53",
+    "storage_bucket": "paseo-viernes-64a53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162101464351:android:256a0d3f71e3994857f42a",
+        "android_client_info": {
+          "package_name": "co.edu.paseo_viernes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162101464351-cno03jh6rftf975fdrqmj2cakkhtpo31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAPEEROMnn759P6IGya2YnziPCuofGTdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162101464351-cno03jh6rftf975fdrqmj2cakkhtpo31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
